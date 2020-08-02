@@ -11,3 +11,6 @@ do freelance jobs on UpWork.
 I'm currently diving deep into Laravel and Vue.js.
 
 Check [my website](https://pedrosancao.github.io/en/).
+
+![Ubuntu 20.04 user](https://pedrosancao.github.io/pedrosancao/signatures/ubuntu-20-04.png)<br>
+![NetBeans IDE user](https://pedrosancao.github.io/pedrosancao/signatures/netbeans.png)
