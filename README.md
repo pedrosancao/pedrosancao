@@ -8,7 +8,14 @@ I'm on a full time job at Interaktiv - Oracle Silver Partner developing
 health care related software for major hospitals in São Paulo. Also I
 do freelance jobs on UpWork.
 
-I'm currently diving deep into Laravel and Vue.js.
+From time to time I share some experience on my blog in Portuguese, here
+some of the latest posts:
+
+- [Observando mudanças de arquivos com PHP](https://sancao.wordpress.com/2020/07/25/observando-mudancas-de-arquivos-com-php/)
+- [Buscando pontuação 100% no PageSpeed Insight](https://sancao.wordpress.com/2020/06/06/buscando-pontuacao-100-no-pagespeed-insight/)
+- [Requisições assíncronas consecutivas com Promise](https://sancao.wordpress.com/2020/04/19/requisicoes-assincronas-consecutivas-com-promise/)
+
+Currently diving deep into Laravel and Vue.js.
 
 Check [my website](https://pedrosancao.github.io/en/).
 
