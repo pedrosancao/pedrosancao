@@ -1,27 +1,32 @@
 # I fix problems and get job done
 
-[![Pedro Sanção on LinkedIn][badge-linked-in]](https://www.linkedin.com/in/pedrosancao/)
+[![Pedro Sanção on LinkedIn][badge-linkedin]](https://www.linkedin.com/in/pedrosancao/)
+[![Pedro Sanção website][badge-site]](https://sancao.com.br/en/)
 
-I love and enjoy web development. I'm a **Professional Full Stack
-Developer** with more than 10 years of experience, expert in PHP
-and Javascript with a Bachelor of Technology.
+I love and enjoy web development. I'm a **Professional Full Stack Developer** with more
+than 10 years of experience, expert in PHP and Javascript with a Bachelor of Technology.
 
-I'm on a full time job at Interaktiv - Oracle Silver Partner developing
-health care related software for major hospitals in São Paulo. Also I
-do freelance jobs on UpWork.
+I'm on a full time job at Interaktiv by Connectcom developing health care related
+software for major hospitals in São Paulo. Also I do freelance jobs on UpWork.
 
-From time to time I share some experience on my blog in **Portuguese**, here
-some of the latest posts:
+From time to time I share some experience on my blog in **Portuguese**, here some of the latest posts:
 
+- [Entendendo Linux: como instalar programas](https://sancao.wordpress.com/2020/11/07/entendendo-linux-como-instalar-programas/)
 - [Integrando uma aplicação PHP com Apple Wallet](https://sancao.wordpress.com/2020/10/18/integrando-aplicacao-php-com-apple-wallet/)
-- [Observando mudanças de arquivos com PHP](https://sancao.wordpress.com/2020/07/25/observando-mudancas-de-arquivos-com-php/)
 - [Buscando pontuação 100% no PageSpeed Insight](https://sancao.wordpress.com/2020/06/06/buscando-pontuacao-100-no-pagespeed-insight/)
 - [Requisições assíncronas consecutivas com Promise](https://sancao.wordpress.com/2020/04/19/requisicoes-assincronas-consecutivas-com-promise/)
 
-Currently diving deep into Laravel and Vue.js.
+![pedrosancao's GitHub stats][my-stats]
+![pedrosancao's language usage][my-lang-usage]
 
-Visit [my website](https://sancao.com.br/en/).
+---
 
-![pedrosancao's github stats](https://github-readme-stats.vercel.app/api?username=pedrosancao&show_icons=true)
+To make this profile I use a [special repository][github-profile], [Shields.io][shields] and [GitHub Readme Stats][readme-status].
 
-[badge-linked-in]: https://img.shields.io/badge/LinkedIn-pedrosancao-blue?style=plastic&logo=Linkedin&logoColor=white
+[badge-linkedin]: https://img.shields.io/badge/LinkedIn-pedrosancao-blue?style=plastic&logo=Linkedin&logoColor=white
+[badge-site]: https://img.shields.io/badge/visit-sancao.com.br-008080?style=plastic&logo=html5&logoColor=white
+[my-stats]: https://github-readme-stats.vercel.app/api?username=pedrosancao&show_icons=true&hide=issues
+[my-lang-usage]: https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosancao&layout=compact
+[github-profile]: https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile
+[readme-status]: https://github.com/anuraghazra/github-readme-stats
+[shields]: https://shields.io/
