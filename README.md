@@ -1,4 +1,4 @@
-# I fix problems and get job done
+[![Pedro Sanção][https://pedrosancao.github.io/pedrosancao/images/logo.svg]](https://sancao.com.br/en/)
 
 [![Pedro Sanção on LinkedIn][badge-linkedin]](https://www.linkedin.com/in/pedrosancao/)
 [![Pedro Sanção website][badge-site]](https://sancao.com.br/en/)
@@ -24,7 +24,7 @@ From time to time I share some experience on my blog in **Portuguese**, here som
 To make this profile I use a [special repository][github-profile], [Shields.io][shields] and [GitHub Readme Stats][readme-status].
 
 [badge-linkedin]: https://img.shields.io/badge/LinkedIn-pedrosancao-blue?style=plastic&logo=Linkedin&logoColor=white
-[badge-site]: https://img.shields.io/badge/visit-sancao.com.br-008080?style=plastic&logo=html5&logoColor=white
+[badge-site]: https://img.shields.io/badge/visit-sancao.com.br-6ab9a2?style=plastic
 [my-stats]: https://github-readme-stats.vercel.app/api?username=pedrosancao&show_icons=true&hide=issues
 [my-lang-usage]: https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosancao&layout=compact
 [github-profile]: https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile
