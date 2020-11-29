@@ -1,4 +1,4 @@
-[![Pedro Sanção][https://pedrosancao.github.io/pedrosancao/images/logo.svg]](https://sancao.com.br/en/)
+[![Pedro Sanção][https://pedrosancao.github.io/pedrosancao/images/logo.png]](https://sancao.com.br/en/)
 
 [![Pedro Sanção on LinkedIn][badge-linkedin]](https://www.linkedin.com/in/pedrosancao/)
 [![Pedro Sanção website][badge-site]](https://sancao.com.br/en/)
