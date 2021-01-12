@@ -6,8 +6,7 @@
 I love and enjoy web development. I'm a **Professional Full Stack Developer** with more
 than 10 years of experience, expert in PHP and Javascript with a Bachelor of Technology.
 
-I'm on a full time job at Interaktiv by Connectcom developing health care related
-software for major hospitals in São Paulo. Also I do freelance jobs on UpWork.
+I'm currently on a full time job at CI&T as Software Engineer.
 
 From time to time I share some experience on my blog in **Portuguese**, here some of the latest posts:
 
