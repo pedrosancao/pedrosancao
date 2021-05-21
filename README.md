@@ -16,16 +16,21 @@ From time to time I share some experience on my blog in **Portuguese**, here som
 - [Requisições assíncronas consecutivas com Promise](https://sancao.wordpress.com/2020/04/19/requisicoes-assincronas-consecutivas-com-promise/)
 
 ![pedrosancao's GitHub stats][my-stats]
+
+![pedrosancao's GitHub Streak][my-streak-stats]
+
 ![pedrosancao's language usage][my-lang-usage]
 
 ---
 
-To make this profile I use a [special repository][github-profile], [Shields.io][shields] and [GitHub Readme Stats][readme-status].
+To make this profile I use a [special repository][github-profile], [Shields.io][shields], [Readme Stats][readme-status] and [Streak Stats][readme-status].
 
 [badge-linkedin]: https://img.shields.io/badge/LinkedIn-pedrosancao-blue?style=plastic&logo=Linkedin&logoColor=white
 [badge-site]: https://img.shields.io/badge/visit-sancao.com.br-527abc?style=plastic
 [my-stats]: https://github-readme-stats.vercel.app/api?username=pedrosancao&show_icons=true&hide=issues
+[my-streak-stats]: http://github-readme-streak-stats.herokuapp.com?user=pedrosancao&ring=2F80ED78&fire=2F80ED&currStreakLabel=333333
 [my-lang-usage]: https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosancao&layout=compact
 [github-profile]: https://docs.github.com/en/free-pro-team@latest/github/setting-up-and-managing-your-github-profile/about-your-profile
+[streak-stats]: https://github.com/DenverCoder1/github-readme-streak-stats
 [readme-status]: https://github.com/anuraghazra/github-readme-stats
 [shields]: https://shields.io/
